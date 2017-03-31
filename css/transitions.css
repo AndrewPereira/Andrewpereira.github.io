@@ -1,0 +1,50 @@
+
+
+/*.one {
+    transition: opacity 2s;
+}
+
+.one:hover {
+    opacity: 0;
+}
+*/
+
+.two {
+    transition: opacity 2s;
+    
+}
+
+.two:hover {
+    opacity: 0;
+ 
+}
+.three {
+    transition: opacity 2s;
+}
+
+.three:hover {
+    opacity: 0;
+}
+
+.four {
+
+  transition-property:all;
+  transition-duration: 1s;
+  transition-timing-function: linear;
+}
+
+.four:hover {
+   background:#f4d742;
+  }
+
+.five {
+    top: 0;
+    transition: top 2s;
+    
+
+}
+.five:hover {
+    top: 200px;
+
+}
+
